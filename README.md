@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aubin, junior front-end Developer</h1>
-- 🔭 I’m currently working on a [Password Manager](?)
+<ul>
+  <li>🔭 I’m currently working on a <a href="#">Password Manager</a></li>
 
-- 🌱 I’m currently learning **ReactJS**
+  <li>🌱 I’m currently learning **ReactJS**</li>
 
-- 👨‍💻 All of my projects are available at [https://aubin-manceau.mds-angers.yt/portfolio/](https://aubin-manceau.mds-angers.yt/portfolio/)
+  <li>👨‍💻 All of my projects are available <a href="https://aubin-manceau.mds-angers.yt/portfolio/">here</a></li>
+</ul>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
