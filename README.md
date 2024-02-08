@@ -2,7 +2,7 @@
 <ul>
   <li>🔭 I’m currently working on a <a href="https://github.com/AubinManceau/password-manager">Password Manager</a></li>
 
-  <li>🌱 I’m currently learning <bold>ReactJS</bold></li>
+  <li>🌱 I’m currently learning <b>ReactJS</b></li>
 
   <li>👨‍💻 All of my projects are available <a href="https://aubin-manceau.mds-angers.yt/portfolio/">here</a></li>
 </ul>
