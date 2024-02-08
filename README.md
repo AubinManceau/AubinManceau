@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aubin, junior front-end Developer</h1>
 <ul>
-  <li>🔭 I’m currently working on a <a href="#">Password Manager</a></li>
+  <li>🔭 I’m currently working on a <a href="https://github.com/AubinManceau/password-manager">Password Manager</a></li>
 
-  <li>🌱 I’m currently learning **ReactJS**</li>
+  <li>🌱 I’m currently learning <bold>ReactJS</bold></li>
 
   <li>👨‍💻 All of my projects are available <a href="https://aubin-manceau.mds-angers.yt/portfolio/">here</a></li>
 </ul>
