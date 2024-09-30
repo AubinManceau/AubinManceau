@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aubin, junior front-end Developer</h1>
 <ul>
-  <li>🔭 I’m currently working on a <a href="https://github.com/AubinManceau/password-manager">Mobile app</a></li>
+  <li>🔭 I’m currently working on a <a href="https://github.com/AubinManceau/esq_mobile_app">Mobile app</a></li>
 
   <li>🌱 I’m currently learning <b>ExpressJS</b></li>
 
