@@ -2,9 +2,7 @@
 <ul>
   <li>🔭 I’m currently working on a <a href="https://github.com/AubinManceau/esq-flutter-app">football club mobile app</a></li>
 
-  <li>🌱 I’m currently learning <b>ExpressJS</b> & <b>Flutter</b></li>
-
-  <li>👨‍💻 All of my projects are available <a href="https://aubin-manceau.mds-angers.yt/portfolio/">here</a></li>
+  <li>🌱 I’m currently learning <b>ExpressJS</b> & <b>React Native</b></li>
 </ul>
 
 
