@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aubin, junior front-end Developer</h1>
+<h1 align="center">Hi 👋, I'm Aubin, junior Developer</h1>
 <ul>
   <li>🔭 I’m currently working on a <a href="https://github.com/AubinManceau/esq-react-mobile-app">football club mobile app</a></li>
 
