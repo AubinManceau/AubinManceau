@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aubin, junior Developer</h1>
 <ul>
-  <li>🔭 I’m currently working on a <a href="https://github.com/AubinManceau/esq-react-mobile-app">football club mobile app</a></li>
+  <li>🔭 I’m currently working on a <a href="https://github.com/AubinManceau/esq-express-api">football club mobile app</a></li>
 
   <li>🌱 I’m currently learning <b>ExpressJS</b> & <b>React Native</b></li>
 </ul>
